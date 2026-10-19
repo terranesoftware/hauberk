@@ -2,5 +2,12 @@
 name = "hauberk"
 version = "0.1.0"
 edition = "2024"
+readme = "README.md"
+description = "Rust implementation of the seisin standard."
+license = "Apache-2.0"
+repository = "https://github.com/terranesoftware/hauberk"
+keywords = ["framework", "interop", "orchestration", "resources"]
+categories = ["data-structures", "no-std", "rust-patterns"]
+
 
 [dependencies]
